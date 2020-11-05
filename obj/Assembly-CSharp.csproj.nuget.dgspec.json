@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Login3DWasher\\Assembly-CSharp.csproj": {}
+  },
+  "projects": {
+    "D:\\Login3DWasher\\Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Login3DWasher\\Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "D:\\Login3DWasher\\Assembly-CSharp.csproj",
+        "packagesPath": "C:\\Users\\Joaquin Carbajal\\.nuget\\packages\\",
+        "outputPath": "D:\\Login3DWasher\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Joaquin Carbajal\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net471"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net471": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net471": {
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

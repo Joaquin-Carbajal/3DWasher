@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "SkKkSdmNmyezBE1v8Ru/T2MiWGyxNoH69SVrrYWkg4X2IcY2+NJ7QYs6QUWxCAyCMqDCuro7tnBlrNqI/eBOmg==",
+  "success": true,
+  "projectFilePath": "D:\\Login3DWasher\\Assembly-CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joaquin Carbajal\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
+    "C:\\Users\\Joaquin Carbajal\\.nuget\\packages\\microsoft.data.sqlclient.sni\\2.0.1\\microsoft.data.sqlclient.sni.2.0.1.nupkg.sha512",
+    "C:\\Users\\Joaquin Carbajal\\.nuget\\packages\\microsoft.identity.client\\4.14.0\\microsoft.identity.client.4.14.0.nupkg.sha512",
+    "C:\\Users\\Joaquin Carbajal\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.6.0\\microsoft.identitymodel.jsonwebtokens.5.6.0.nupkg.sha512",
+    "C:\\Users\\Joaquin Carbajal\\.nuget\\packages\\microsoft.identitymodel.logging\\5.6.0\\microsoft.identitymodel.logging.5.6.0.nupkg.sha512",
+    "C:\\Users\\Joaquin Carbajal\\.nuget\\packages\\microsoft.identitymodel.protocols\\5.6.0\\microsoft.identitymodel.protocols.5.6.0.nupkg.sha512",
+    "C:\\Users\\Joaquin Carbajal\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\5.6.0\\microsoft.identitymodel.protocols.openidconnect.5.6.0.nupkg.sha512",
+    "C:\\Users\\Joaquin Carbajal\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.6.0\\microsoft.identitymodel.tokens.5.6.0.nupkg.sha512",
+    "C:\\Users\\Joaquin Carbajal\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
+    "C:\\Users\\Joaquin Carbajal\\.nuget\\packages\\system.data.sqlclient\\4.8.2\\system.data.sqlclient.4.8.2.nupkg.sha512",
+    "C:\\Users\\Joaquin Carbajal\\.nuget\\packages\\system.identitymodel.tokens.jwt\\5.6.0\\system.identitymodel.tokens.jwt.5.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
